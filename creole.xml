@@ -1,0 +1,8 @@
+<CREOLE-DIRECTORY 
+  ID="com.jpetrak.VirtualDocuments" 
+  VERSION="0.6" 
+  DESCRIPTION="Indirect Language Analyser, create virtual documents from annotation specifications."
+  HELPURL="http://code.google.com/p/gateplugin-virtualdocuments/"
+>
+  <JAR SCAN="true">VirtualDocuments.jar</JAR>
+</CREOLE-DIRECTORY>

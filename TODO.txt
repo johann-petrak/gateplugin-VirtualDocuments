@@ -1,0 +1,11 @@
+
+When using takeAll=true, the indirect annotator pr does not terminate?
+
+processing option not optional (in annotate by spec)
+
+Make all PRs interruptable.
+
+Make sure PR parms are not modified by PR
+
+Implement forward mapping
+

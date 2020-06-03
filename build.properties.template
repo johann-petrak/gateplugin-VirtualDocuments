@@ -1,0 +1,19 @@
+# $Id: $
+#
+# build.properties template for VirtualDocuments
+#
+ 
+# gate.home - the location of your top-level GATE directory
+# If your plugin is not located in the default plugins directory
+# of gate ($GATE_HOME/plugins/) the full path of the GATE home direcoty
+# should be specified here.
+#
+#gate.home=/root/directory/of/gate
+
+# The name of this plugin.
+# If you want to overwrite the name as specified in the build.xml file,
+# you can do it here. 
+#plugin.name=VirtualDocuments
+
+# All other settings in the build.xml file can be overwritten here ...
+#
